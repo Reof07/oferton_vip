@@ -1,0 +1,12 @@
+
+__pycache__
+
+# Virtual environment
+myvenv
+
+# Environment Variables
+.env
+
+# Data base
+db.sqlite3
+

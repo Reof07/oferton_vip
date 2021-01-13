@@ -1,0 +1,1 @@
+web: gunicorn oferton_vzl.wsgi —-log-file -
