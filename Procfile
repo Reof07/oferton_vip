@@ -1,1 +1,1 @@
-web: gunicorn oferton_vzl.wsgi —-log-file -
+web: gunicorn root.wsgi —-log-file -
