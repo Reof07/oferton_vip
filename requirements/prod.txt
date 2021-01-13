@@ -1,0 +1,9 @@
+# Specifies only prod-specific requirements
+# But imports the common ones too
+
+-r  common.txt
+
+dj-database-url==0.5.0
+django-heroku==0.3.1
+psycopg2==2.8.6
+whitenoise==5.2.0
