@@ -2,7 +2,7 @@ from .base import *
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'ofertonvip.herokuapp.com']
 
 MIDDLEWARE += ['whitenoise.middleware.WhiteNoiseMiddleware',]
 
