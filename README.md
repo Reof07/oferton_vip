@@ -2,8 +2,8 @@
 Make sure you have Python 3.8.7 installed locally. 
 
 ```sh
-$ git clone https://github.com/Reof07/oferton_vzl.git
-$ cd oferton_vzl
+$ git clone https://github.com/Reof07/oferton_vip.git
+$ cd oferton_vip
 
 $ python3 -m venv  myvenv # NOTA: if you're using windons is python -m ....
 $ pip install -r requirements.txt
