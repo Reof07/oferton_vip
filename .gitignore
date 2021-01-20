@@ -10,3 +10,6 @@ myvenv
 # Data base
 db.sqlite3
 
+
+# Variables to database
+secrets.json
